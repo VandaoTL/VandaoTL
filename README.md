@@ -1,16 +1,14 @@
-## Hi there 👋
+## Fala meu bom!!
+Sou o Evandro Loyolla, conhecido por Vandão. Sou brasileiro, tenho 20 anos e estou cursando Engenharia da Comp. na Universidade Estadual de Campinas.
 
-<!--
-**VandaoTL/VandaoTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+はじめまして、
+私はエバンドロ・ロヨラです。
+ブラジル人です。
+はたちです。
+いまにねせうです。
+せんこうはコンピュータこうがくです。
+カンピーナスしゅうりつだいがくのがくせいです。
+よろしこおねがいします。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/evandro-loyolla-538aa331a/)](https://www.linkedin.com/in/evandro-loyolla-538aa331a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:e257074@dac.unicamp.br)](mailto:e257074@dac.unicamp.br)
